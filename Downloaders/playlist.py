@@ -25,7 +25,7 @@ ydl_opts = {
     'format': 'bestaudio/best',
     'outtmpl': '%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s',
     'postprocessors': [audio_postprocessor],
-    'cookiefile': 'youtube_cookies.txt',
+    #'cookiefile': 'youtube_cookies.txt', #provide cookies only if you are downloading from age restricted video
     'quiet': False
 }
 
