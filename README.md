@@ -30,8 +30,6 @@ PERMISSIONS:
 
 1) The song or playlist must be PUBLIC
 
-2) The scripts (playlist/singles) should be ran in PRIVILEGED/ADMINISTRATOR mode.
-
 --------------------------------------------------------------------------------------------------------
 WARNING:
 
